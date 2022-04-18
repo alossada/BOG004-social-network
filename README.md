@@ -28,9 +28,9 @@ en la que se puede leer y escribir datos.
 Este proyecto se resolvió en un equipo de tres:
 
 Desarrolladoras:
-Anamaria Medina
-Angélica Losada
-Yara El Zein 
+Anamaria Medina,
+Angélica Losada,
+Yara El Zein.
 
 ## 4. Criterios de aceptación 
 
